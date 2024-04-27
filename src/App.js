@@ -65,7 +65,7 @@ function App() {
       />
     )}
     </div>
-      ) : <h3 className="text-center text-2xl mx-auto px-5 pt-6">Something to display here, some promotional picture or text</h3>}
+      ) : <h3 className="text-center text-2xl mx-auto px-5 pt-6">Something to display here, some promotional picture or text.</h3>}
       
     </UserContext.Provider>
   );
